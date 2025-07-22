@@ -1,6 +1,24 @@
 # ProjectS Development Checklist
 
-## 🔧 Setup & Installation
+## � Team Setup & Collaboration
+
+### Team Access Setup
+- [ ] Add all team members to GitHub repository
+  - [ ] Nguyễn Gia Khánh (IUH) - Collaborator access
+  - [ ] Lưu Trí Kiệt (HUIT) - Collaborator access  
+  - [ ] Nguyễn Việt Hoàng (TDT) - Collaborator access
+- [ ] Setup Discord server for team communication
+- [ ] Create GitHub Project board
+- [ ] Setup branch protection rules
+- [ ] Configure Git LFS for large assets
+
+### Individual Workspaces
+- [ ] Each member clone repository locally
+- [ ] Each member install Unity 2022.3 LTS + VS Code
+- [ ] Configure Git identity for each member
+- [ ] Test Git workflow with sample commits
+
+## �🔧 Setup & Installation
 
 ### Unity & Tools
 - [ ] Download Unity Hub
@@ -32,6 +50,19 @@
 - [ ] Forest area concepts
 
 ## 🎮 Prototype Development (Month 1-2)
+
+### Menu System (Hy's Current Task) - Priority: HIGH
+- [ ] Create MainMenu scene
+- [ ] Setup Canvas and UI layout
+- [ ] Implement basic buttons (New Game, Settings, Exit)
+- [ ] Create MenuManager script
+- [ ] Add Settings panel with audio/graphics controls
+- [ ] Implement SettingsManager script
+- [ ] Add scene transition system
+- [ ] Basic button styling and layout
+- [ ] Test all menu functionality
+- [ ] Create Credits scene
+- [ ] Polish visual design
 
 ### Core Systems
 - [ ] Create new Unity 3D project

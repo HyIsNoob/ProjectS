@@ -23,6 +23,8 @@ ProjectS/
 ```
 
 ## 🚀 Development Status
+- [x] Unity 2022.3 LTS Installation
+- [ ] Unity Project Setup
 - [ ] Pre-production
 - [ ] Prototype
 - [ ] Production
@@ -31,8 +33,11 @@ ProjectS/
 - [ ] Release
 
 ## 👥 Team
-**Studio Synapse**
-- [Thêm thành viên team]
+**Studio Synapse** - 4 Members
+- **Nguyễn Khang Hy** - Project Lead & Developer (UIT - Đại học Công nghệ Thông tin)
+- **Nguyễn Gia Khánh** - Developer (IUH - Đại học Công nghiệp)  
+- **Lưu Trí Kiệt** - Developer (HUIT - Đại học Công Thương)
+- **Nguyễn Việt Hoàng** - Developer (TDT - Đại học Tôn Đức Thắng)
 
 ---
 *Bắt đầu phát triển: July 2025*
