@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8c8156e9f8de44c40a6155a61c6be700
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - noSavedGameDialog: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - buttonClickSound: {fileID: 8300000, guid: 0fb51bb5652015d42b16f8321b8872d3, type: 3}
+  - VolumeTextValue: {instanceID: 0}
+  - VolumeSlider: {instanceID: 0}
+  - confirmationPrompt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
