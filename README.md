@@ -12,19 +12,10 @@ Một game kinh dị 3D kể về hành trình của một cậu bé tìm kiếm
 - **Sinh tồn**: Tránh và tiêu diệt "Watcher"
 - **Câu chuyện**: 3 ending khác nhau
 
-## 📁 Project Structure
-```
-ProjectS/
-├── Concept/
-├── Documentation/
-├── Assets/
-├── Builds/
-└── Marketing/
-```
 
 ## 🚀 Development Status
 - [x] Unity 2022.3 LTS Installation
-- [ ] Unity Project Setup
+- [x] Unity Project Setup
 - [ ] Pre-production
 - [ ] Prototype
 - [ ] Production
@@ -34,7 +25,7 @@ ProjectS/
 
 ## 👥 Team
 **Studio Synapse** - 4 Members
-- **Nguyễn Khang Hy** - Project Lead & Developer (UIT - Đại học Công nghệ Thông tin)
+- **Nguyễn Khang Hy** - Developer (UIT - Đại học Công nghệ Thông tin)
 - **Nguyễn Gia Khánh** - Developer (IUH - Đại học Công nghiệp)  
 - **Lưu Trí Kiệt** - Developer (HUIT - Đại học Công Thương)
 - **Nguyễn Việt Hoàng** - Developer (TDT - Đại học Tôn Đức Thắng)
